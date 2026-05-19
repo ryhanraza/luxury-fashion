@@ -17,6 +17,15 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "Veloura | Where elegance meets everyday style.",
   description: "Where elegance meets everyday style.",
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/favicon.png", type: "image/png" },
+      { url: "/favicon.ico", type: "image/x-icon" },
+    ],
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({

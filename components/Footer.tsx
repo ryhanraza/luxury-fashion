@@ -6,9 +6,9 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
-            <span className="font-serif text-2xl font-bold tracking-tight text-gray-900">
-              Veloura<span className="text-amber-600">.</span>
-            </span>
+            <Link href="/" className="font-serif text-2xl font-bold tracking-tight text-gray-900">
+              Veloura
+            </Link>
             <p className="mt-4 text-gray-500 text-sm max-w-sm">
               Curated luxury men&apos;s fashion finds. Elevate your wardrobe and style without breaking the bank.
             </p>
