@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "Classic Leather Oxford Shoes",
+    "description": "Premium black leather oxfords. Perfect for formal events and the boardroom.",
+    "price": "3499",
+    "category": "shoes",
+    "image": "https://images.unsplash.com/photo-1614252339474-12eb2245b91b?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "2",
+    "name": "Minimalist Chronograph Watch",
+    "description": "Matte black dial with a stainless steel mesh band. A modern classic.",
+    "price": "2899",
+    "category": "watches",
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "3",
+    "name": "Tailored Linen Blazer",
+    "description": "Lightweight navy linen blazer, ideal for smart-casual summer evenings.",
+    "price": "4999",
+    "category": "apparel",
+    "image": "https://images.unsplash.com/photo-1594938298598-7c91264d8126?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "4",
+    "name": "Vintage Aviator Sunglasses",
+    "description": "Gold-tone frames with polarized green lenses. Timeless masculine style.",
+    "price": "1499",
+    "category": "sunglasses",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "5",
+    "name": "Suede Chelsea Boots",
+    "description": "Versatile tan suede boots that pair perfectly with denim or chinos.",
+    "price": "3999",
+    "category": "shoes",
+    "image": "https://images.unsplash.com/photo-1638247025967-b4e38f787b76?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "6",
+    "name": "Automatic Diver's Watch",
+    "description": "Rugged stainless steel diver's watch with a rotating bezel and luminous hands.",
+    "price": "8999",
+    "category": "watches",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1000&auto=format&fit=crop",
+    "affiliateLink": "https://amazon.com"
+  }
+]
