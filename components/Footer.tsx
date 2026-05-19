@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Footer() {
   return (
     <footer className="bg-gray-50 border-t border-gray-200 mt-20">
@@ -8,16 +10,16 @@ export default function Footer() {
               Veloura<span className="text-amber-600">.</span>
             </span>
             <p className="mt-4 text-gray-500 text-sm max-w-sm">
-              Curated luxury men's fashion finds. Elevate your wardrobe and style without breaking the bank.
+              Curated luxury men&apos;s fashion finds. Elevate your wardrobe and style without breaking the bank.
             </p>
           </div>
           <div>
             <h3 className="text-sm font-bold text-gray-900 uppercase tracking-wider mb-4">Categories</h3>
             <ul className="space-y-3">
-              <li><a href="/category/shoes" className="text-gray-500 hover:text-gray-900 text-sm">Shoes</a></li>
-              <li><a href="/category/watches" className="text-gray-500 hover:text-gray-900 text-sm">Watches</a></li>
-              <li><a href="/category/apparel" className="text-gray-500 hover:text-gray-900 text-sm">Apparel</a></li>
-              <li><a href="/category/sunglasses" className="text-gray-500 hover:text-gray-900 text-sm">Sunglasses</a></li>
+              <li><Link href="/category/shoes" className="text-gray-500 hover:text-gray-900 text-sm">Shoes</Link></li>
+              <li><Link href="/category/watches" className="text-gray-500 hover:text-gray-900 text-sm">Watches</Link></li>
+              <li><Link href="/category/apparel" className="text-gray-500 hover:text-gray-900 text-sm">Apparel</Link></li>
+              <li><Link href="/category/accessories" className="text-gray-500 hover:text-gray-900 text-sm">Accessories</Link></li>
             </ul>
           </div>
           <div>

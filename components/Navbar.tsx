@@ -14,7 +14,7 @@ export default function Navbar() {
             <Link href="/category/shoes" className="text-gray-600 hover:text-black transition-colors font-medium">Shoes</Link>
             <Link href="/category/watches" className="text-gray-600 hover:text-black transition-colors font-medium">Watches</Link>
             <Link href="/category/apparel" className="text-gray-600 hover:text-black transition-colors font-medium">Apparel</Link>
-            <Link href="/category/sunglasses" className="text-gray-600 hover:text-black transition-colors font-medium">Sunglasses</Link>
+            <Link href="/category/accessories" className="text-gray-600 hover:text-black transition-colors font-medium">Accessories</Link>
             <Link href="/blog" className="text-gray-600 hover:text-black transition-colors font-medium">Editorial</Link>
           </div>
         </div>

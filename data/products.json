@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "name": "Classic Leather Oxford Shoes",
-    "description": "Premium black leather oxfords. Perfect for formal events and the boardroom.",
-    "price": "3499",
-    "category": "shoes",
-    "image": "https://images.unsplash.com/photo-1614252339474-12eb2245b91b?q=80&w=1000&auto=format&fit=crop",
-    "affiliateLink": "https://amazon.com"
+    "name": "Symbol Premium Cotton Twill Shirt",
+    "description": "Pure cotton twill casual shirt with a lived-in feel. Features dual buttoned utility chest pockets and a comfortable regular fit.",
+    "price": "1299",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/71xQxOKNZqL._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4wDQwhs"
   },
   {
     "id": "2",
@@ -23,7 +23,7 @@
     "description": "Lightweight navy linen blazer, ideal for smart-casual summer evenings.",
     "price": "4999",
     "category": "apparel",
-    "image": "https://images.unsplash.com/photo-1594938298598-7c91264d8126?q=80&w=1000&auto=format&fit=crop",
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
     "affiliateLink": "https://amazon.com"
   },
   {
@@ -31,7 +31,7 @@
     "name": "Vintage Aviator Sunglasses",
     "description": "Gold-tone frames with polarized green lenses. Timeless masculine style.",
     "price": "1499",
-    "category": "sunglasses",
+    "category": "accessories",
     "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1000&auto=format&fit=crop",
     "affiliateLink": "https://amazon.com"
   },
