@@ -26,7 +26,7 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
   }
   
   return {
-    title: `${post.title} | LUXE Editorial`,
+    title: `${post.title} | Veloura Editorial`,
     description: post.excerpt,
   };
 }

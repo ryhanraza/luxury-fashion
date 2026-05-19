@@ -7,7 +7,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-20">
           <div className="flex-shrink-0 flex items-center">
             <Link href="/" className="font-serif text-2xl font-bold tracking-tight text-gray-900">
-              LUXE<span className="text-amber-600">.</span>
+              Veloura<span className="text-amber-600">.</span>
             </Link>
           </div>
           <div className="hidden md:flex space-x-8">

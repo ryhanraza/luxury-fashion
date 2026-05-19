@@ -23,8 +23,8 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
   const title = slug.charAt(0).toUpperCase() + slug.slice(1);
   
   return {
-    title: `${title} | LUXE Fashion`,
-    description: `Shop the latest affordable luxury ${slug} curated by LUXE.`,
+    title: `${title} | Veloura Fashion`,
+    description: `Shop the latest affordable luxury ${slug} curated by Veloura.`,
   };
 }
 

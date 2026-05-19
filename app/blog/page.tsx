@@ -4,7 +4,7 @@ import Image from 'next/image';
 import postsData from '@/data/posts.json';
 
 export const metadata: Metadata = {
-  title: "Editorial | LUXE Fashion",
+  title: "Editorial | Veloura Fashion",
   description: "Style guides, trend reports, and the best fashion finds.",
 };
 

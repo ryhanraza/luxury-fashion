@@ -15,8 +15,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "LUXE | Luxury Looks Without the Luxury Price",
-  description: "Curated luxury fashion finds. Elevate your wardrobe without breaking the bank.",
+  title: "Veloura | Where elegance meets everyday style.",
+  description: "Where elegance meets everyday style.",
 };
 
 export default function RootLayout({

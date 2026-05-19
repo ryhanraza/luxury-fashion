@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <span className="font-serif text-2xl font-bold tracking-tight text-gray-900">
-              LUXE<span className="text-amber-600">.</span>
+              Veloura<span className="text-amber-600">.</span>
             </span>
             <p className="mt-4 text-gray-500 text-sm max-w-sm">
               Curated luxury men's fashion finds. Elevate your wardrobe and style without breaking the bank.
@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
         <div className="mt-12 pt-8 border-t border-gray-200 text-center md:text-left flex flex-col md:flex-row justify-between items-center">
           <p className="text-xs text-gray-400">
-            © {new Date().getFullYear()} LUXE. All rights reserved.
+            © {new Date().getFullYear()} Veloura. All rights reserved.
           </p>
           <p className="text-xs text-gray-400 mt-2 md:mt-0 max-w-2xl text-center md:text-right">
             Disclaimer: We are an affiliate partner. This means if you click on an affiliate link and make a purchase, we may receive a small commission at no extra cost to you.
