@@ -47,7 +47,7 @@ export default function Home() {
           {[
             { name: "Timepieces", slug: "watches", image: "https://images.unsplash.com/photo-1612817159949-195b6eb9e31a?q=80&w=800&auto=format&fit=crop" },
             { name: "Footwear", slug: "shoes", image: "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=800&auto=format&fit=crop" },
-            { name: "Apparel", slug: "apparel", image: "https://images.unsplash.com/photo-1594938298598-7c91264d8126?q=80&w=800&auto=format&fit=crop" },
+            { name: "Apparel", slug: "apparel", image: "/products/symbol-shirt.jpg" },
           ].map((category) => (
             <Link href={`/category/${category.slug}`} key={category.slug} className="group relative h-96 overflow-hidden rounded-lg">
               <Image src={category.image} alt={category.name} fill className="object-cover group-hover:scale-105 transition-transform duration-700" />
