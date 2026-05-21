@@ -26,15 +26,7 @@
     "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=1000&auto=format&fit=crop",
     "affiliateLink": "https://amazon.com"
   },
-  {
-    "id": "3",
-    "name": "Tailored Linen Blazer",
-    "description": "Lightweight navy linen blazer, ideal for smart-casual summer evenings.",
-    "price": "4999",
-    "category": "apparel",
-    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1000&q=80",
-    "affiliateLink": "https://amazon.com"
-  },
+
   {
     "id": "4",
     "name": "Vintage Aviator Sunglasses",
@@ -61,5 +53,50 @@
     "category": "watches",
     "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?q=80&w=1000&auto=format&fit=crop",
     "affiliateLink": "https://amazon.com"
+  },
+  {
+    "id": "8",
+    "name": "Symbol Premium Wrinkle-Resistant Formal Shirt",
+    "description": "Premium regular fit cotton formal shirt with an easy-to-iron finish. Features a clean, polished look ideal for office or smart-casual wear.",
+    "price": "1399",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/61OZq-JkXEL._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4v0Fn8I"
+  },
+  {
+    "id": "9",
+    "name": "Louis Philippe Premium Pique Polo",
+    "description": "Premium 24s DCH cotton pique polo shirt. Features a clean regular fit, contrast collar, and a modern color-block shoulder design.",
+    "price": "1160",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/61bjzhhJMAL._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4wJcdMW"
+  },
+  {
+    "id": "10",
+    "name": "Allen Solly Mandarin Collar Cotton Shirt",
+    "description": "Crafted from 100% lightweight cotton with a stylish mandarin collar. A vibrant lemon yellow hue perfect for smart-casual wear.",
+    "price": "959",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/61E2yOtyy7L._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4tS99eW"
+  },
+  {
+    "id": "11",
+    "name": "Louis Philippe Color-Block Polo Shirt",
+    "description": "High-end pique cotton knit polo shirt featuring a distinctive cut-and-sew color block design on the shoulder and chest.",
+    "price": "1160",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/61CeLGR8oOL._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4fzyl6r"
+  },
+  {
+    "id": "12",
+    "name": "Symbol Premium Casual Denim Shirt",
+    "description": "Soft casual denim shirt woven from 100% premium cotton. A versatile wardrobe essential that layers perfectly or wears sharp on its own.",
+    "price": "1499",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/817bMyObLnL._SL1500_.jpg",
+    "affiliateLink": "https://amzn.to/4domkPP"
   }
 ]
