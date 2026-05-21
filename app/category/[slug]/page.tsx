@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import ProductCard from '@/components/ProductCard';
 import productsData from '@/data/products.json';
 import { notFound } from 'next/navigation';
@@ -43,7 +44,7 @@ export default async function CategoryPage(props: Props) {
       <nav className="flex text-sm text-gray-500 mb-8" aria-label="Breadcrumb">
         <ol className="inline-flex items-center space-x-1 md:space-x-3">
           <li className="inline-flex items-center">
-            <a href="/" className="hover:text-gray-900 transition-colors">Home</a>
+            <Link href="/" className="hover:text-gray-900 transition-colors">Home</Link>
           </li>
           <li>
             <div className="flex items-center">

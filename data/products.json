@@ -98,5 +98,59 @@
     "category": "apparel",
     "image": "https://m.media-amazon.com/images/I/817bMyObLnL._SL1500_.jpg",
     "affiliateLink": "https://amzn.to/4domkPP"
+  },
+  {
+    "id": "13",
+    "name": "Van Heusen Men's Mid Rise Premium Cotton Slim Fit Casual Trousers",
+    "description": "Premium mid rise cotton-blend chinos with a slim fit and comfortable casual styling. Ideal for everyday wear and office-casual outfits.",
+    "price": "1469",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/51jQZhxxknL._SY550_.jpg",
+    "affiliateLink": "https://amzn.to/4nHaPq0"
+  },
+  {
+    "id": "14",
+    "name": "Louis Philippe Men's Slim Fit Stretch Denim Jeans",
+    "description": "Premium stretch denim jeans with authentic twill construction and a premium wash finish for comfort, durability, and stylish everyday wear.",
+    "price": "1479",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/51IjAIg1hQL._SY679_.jpg",
+    "affiliateLink": "https://amzn.to/3Rjb9PW"
+  },
+  {
+    "id": "15",
+    "name": "Louis Philippe Men's Slim Fit Stretch Fabric Premium Wash Jeans",
+    "description": "Eye-catching premium wash jeans with stretch fabric and authentic twill construction for all-day comfort and a modern slim fit.",
+    "price": "1609",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/51DQDM-EQTL._SY679_.jpg",
+    "affiliateLink": "https://amzn.to/4dDB64g"
+  },
+  {
+    "id": "16",
+    "name": "Peter England Men's Slim Tapered Stretch Jeans",
+    "description": "Slim tapered stretch jeans in faded navy with a premium cotton blend for comfort, everyday versatility, and casual style.",
+    "price": "1109",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/71xZHNDtdqL._SY550_.jpg",
+    "affiliateLink": "https://amzn.to/4dHDrer"
+  },
+  {
+    "id": "17",
+    "name": "The Indian Garage Co Men Skater Fit Solid Mid-Rise Jeans",
+    "description": "Baggy mid-rise solid jeans in soft 100% cotton for relaxed everyday style with a skater-fit silhouette.",
+    "price": "1214",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/71EbHIQZbbL._SY550_.jpg",
+    "affiliateLink": "https://amzn.to/4dsO2JS"
+  },
+  {
+    "id": "18",
+    "name": "Urbano Plus Men's Loose Mid Rise Baggy Fit Cargo Carpenter Jeans",
+    "description": "Comfortable loose-fit cargo carpenter jeans in 100% cotton with 6 utility pockets, mid-rise, and non-stretchable fabric for streetwear style.",
+    "price": "1399",
+    "category": "apparel",
+    "image": "https://m.media-amazon.com/images/I/51NWKPEUBJL._SY550_.jpg",
+    "affiliateLink": "https://amzn.to/4fx7PdQ"
   }
 ]
