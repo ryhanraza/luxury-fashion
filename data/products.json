@@ -206,5 +206,59 @@
     "category": "shoes",
     "image": "https://m.media-amazon.com/images/I/81iQuwXgjSL._SY395_.jpg",
     "affiliateLink": "https://amzn.to/4dAV5Af"
+  },
+  {
+    "id": "25",
+    "name": "Carlington Big Bang Skeleton Chronograph Watch",
+    "description": "A striking timepiece featuring a mechanical skeleton-style dial, robust stainless steel case, and quartz chronograph movement. Bold and masculine.",
+    "price": "1698",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/61xqBMhwbjL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/4wGXHoX"
+  },
+  {
+    "id": "26",
+    "name": "Carlington Legacy Chronograph Watch",
+    "description": "A timeless watch from the Legacy Series featuring a functional chronograph display, classic dark round dial, and premium stitched leather strap.",
+    "price": "1799",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/81+H1idy8ZL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/4dHTlFL"
+  },
+  {
+    "id": "27",
+    "name": "Sylvi Rig One 'O One Sports Watch",
+    "description": "A high-performance watch featuring a signature textured silicone strap, world time display, dual timezone alarms, and stopwatch capabilities.",
+    "price": "1799",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/61yzXbIhbeL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/3PUf6dl"
+  },
+  {
+    "id": "28",
+    "name": "Carlington Adventure Sports Analog-Digital Watch",
+    "description": "An all-terrain resin sports watch designed with dual time, backlight display, shock resistance, and a multi-functional chronograph dial.",
+    "price": "1599",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/71hOmGSetvL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/4nGMQYd"
+  },
+  {
+    "id": "29",
+    "name": "Nibosi Business Sport Waterproof Watch",
+    "description": "A sophisticated hybrid style featuring a luxury stainless steel dial, durable silicone-leather hybrid strap, date calendar, and water-resistant quartz movement.",
+    "price": "2979",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/71UssWiZVjL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/4tLRqG4"
+  },
+  {
+    "id": "30",
+    "name": "Daniel Hechter Paris Rivoli Octagonal Watch",
+    "description": "Designed in Paris, this modern timekeeper features a bold octagonal dial, sleek contrast accents, and a comfortable textured silicone band.",
+    "price": "2099",
+    "category": "watches",
+    "image": "https://m.media-amazon.com/images/I/71wdsiWHGeL._SX342_.jpg",
+    "affiliateLink": "https://amzn.to/42MP4M4"
   }
 ]
