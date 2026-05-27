@@ -152,5 +152,59 @@
     "category": "apparel",
     "image": "https://m.media-amazon.com/images/I/51NWKPEUBJL._SY550_.jpg",
     "affiliateLink": "https://amzn.to/4fx7PdQ"
+  },
+  {
+    "id": "19",
+    "name": "U.S. Polo Assn. Abor Sneaker",
+    "description": "A classic canvas sneaker featuring the iconic brand embroidery, secure lace-up fit, and durable rubber sole for casual sophistication.",
+    "price": "1913",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/71TCP-Tq2VL._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/3RAeH08"
+  },
+  {
+    "id": "20",
+    "name": "Fausto Classic Oxford Shoes",
+    "description": "Elegant formal dress shoes featuring a sleek synthetic leather upper, clean lace-up design, and welted TPR sole for a polished business look.",
+    "price": "1499",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/51GHGJO2zQL._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/4v0R3Iy"
+  },
+  {
+    "id": "21",
+    "name": "Campus Dripp Retro Sneakers",
+    "description": "Striking streetwear sneakers designed with premium mesh and overlay detailing, cushioned collar, and responsive soles for active lifestyle comfort.",
+    "price": "1684",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/61-JYaNUqcL._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/4uspGaC"
+  },
+  {
+    "id": "22",
+    "name": "Reebok Super Speed Running Shoes",
+    "description": "Lightweight and breathable athletic shoes featuring an EVA cushioned midsole, sturdy rubber traction, and iconic branding for everyday style and workouts.",
+    "price": "1500",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/51dEbrr-bcL._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/4dWGFvO"
+  },
+  {
+    "id": "23",
+    "name": "Boldfit DripBloc Air-Mesh Sneakers",
+    "description": "Modern high-comfort sneakers featuring a breathable mesh upper, signature memory foam style insole, and flexible sole for all-day streetwear wear.",
+    "price": "1403",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/61wyIknxy9L._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/4fzEob2"
+  },
+  {
+    "id": "24",
+    "name": "Ruosh Classic Leather Slip-On Loafers",
+    "description": "Refined leather driving loafers crafted with high-end stitching, slip-on comfort, and a textured grip sole, adding effortless class to your attire.",
+    "price": "2141",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/81iQuwXgjSL._SY395_.jpg",
+    "affiliateLink": "https://amzn.to/4dAV5Af"
   }
 ]
